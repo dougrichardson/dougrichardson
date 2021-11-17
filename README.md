@@ -22,7 +22,7 @@ Selected publications
 
 **Richardson, D.**, Fowler, H., Kilsby, C. and Neal, R.: A new precipitation and drought climatology based on weather patterns, *Int. J. Climatol.*, 38, 630–648, [10.1002/joc.5199](https://doi.org/10.1002/joc.5199), 2018.
 
-Risbey, J., Squire, D., Black, A., Matear, R., Monselesan, D., Moore, T., **Richardson, D.**, Tozer, C., Schepen, A., Tippett, M., Lepore, C. and DelSole, T.: Towards onset: shades of ENSO skill, *Nature Comms*, 12, 4346, [10.1038/s41467-021-23771-z](https://www.nature.com/articles/s41467-021-23771-z), 2021.
+Risbey, J., Squire, D., Black, A., Matear, R., Monselesan, D., Moore, T., **Richardson, D.**, Tozer, C., Schepen, A., Tippett, M., Lepore, C. and DelSole, T.: Standard assessments of climate forecast skill can be misleading, *Nature Comms*, 12, 4346, [10.1038/s41467-021-23771-z](https://www.nature.com/articles/s41467-021-23771-z), 2021.
 
 
 Employment
