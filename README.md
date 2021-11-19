@@ -11,6 +11,7 @@ I am a Postdoctoral Fellow in the Climate Science Centre at CSIRO. My research i
 
 Selected publications
 ------------
+**Richardson, D.**, Black, A., Monselesan, D., Moore, T., Risbey, J., Squire, D., Tozer, C. and Canadell, P.: Increased extreme fire weather occurrence in southeast Australia and related atmospheric drivers, *Weather Clim. Ext.*, in press.
 
 **Richardson, D.**, Black, A., Monselesan, D., Moore, T., Risbey, J., Schepen, A., Squire, D. and Tozer, C.: Identifying periods of forecast model confidence for improved subseasonal prediction of precipitation, *J. Hydromet.* 22(2), 371-385, [10.1175/JHM-D-20-0054.1](https://doi.org/10.1175/JHM-D-20-0054.1), 2021.
 
@@ -22,7 +23,7 @@ Selected publications
 
 **Richardson, D.**, Fowler, H., Kilsby, C. and Neal, R.: A new precipitation and drought climatology based on weather patterns, *Int. J. Climatol.*, 38, 630–648, [10.1002/joc.5199](https://doi.org/10.1002/joc.5199), 2018.
 
-Risbey, J., Squire, D., Black, A., Matear, R., Monselesan, D., Moore, T., **Richardson, D.**, Tozer, C., Schepen, A., Tippett, M., Lepore, C. and DelSole, T.: Standard assessments of climate forecast skill can be misleading, *Nature Comms*, 12, 4346, [10.1038/s41467-021-23771-z](https://www.nature.com/articles/s41467-021-23771-z), 2021.
+Risbey, J., Squire, D., Black, A., DelSole, T., Lepore, C., Matear, R., Monselesan, D., Moore, T., **Richardson, D.**, Schepen, A., Tippett, M., and Tozer, C.: Standard assessments of climate forecast skill can be misleading, *Nature Comms*, 12, 4346, [10.1038/s41467-021-23771-z](https://www.nature.com/articles/s41467-021-23771-z), 2021.
 
 
 Employment
