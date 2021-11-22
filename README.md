@@ -11,7 +11,7 @@ I am a Postdoctoral Fellow in the Climate Science Centre at CSIRO. My research i
 
 Selected publications
 ------------
-**Richardson, D.**, Black, A., Monselesan, D., Moore, T., Risbey, J., Squire, D., Tozer, C. and Canadell, P.: Increased extreme fire weather occurrence in southeast Australia and related atmospheric drivers, *Weather Clim. Ext.*, in press.
+**Richardson, D.**, Black, A., Monselesan, D., Moore, T., Risbey, J., Squire, D., Tozer, C. and Canadell, P.: Increased extreme fire weather occurrence in southeast Australia and related atmospheric drivers, *Weather Clim. Ext.*, [10.1016/j.wace.2021.100397](https://doi.org/10.1016/j.wace.2021.100397), in press.
 
 **Richardson, D.**, Black, A., Monselesan, D., Moore, T., Risbey, J., Schepen, A., Squire, D. and Tozer, C.: Identifying periods of forecast model confidence for improved subseasonal prediction of precipitation, *J. Hydromet.* 22(2), 371-385, [10.1175/JHM-D-20-0054.1](https://doi.org/10.1175/JHM-D-20-0054.1), 2021.
 
