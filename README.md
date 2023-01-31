@@ -1,18 +1,20 @@
 Doug Richardson
 ============
 -- --
-**Postdoctoral Fellow**  
-CSIRO, Hobart, Australia  
+**Research Associate**  
+University of New South Wales, Sydney, Australia  
 [Google Scholar profile](https://scholar.google.com.au/citations?user=syAWxsEAAAAJ&hl=en)
-
-I am a Postdoctoral Fellow in the Climate Science Centre at CSIRO. My research is primarily focussed on climate extremes, such as droughts, floods and wildfire weather. I have expertise in characterising the past behaviour of extreme events, and analysing their potential drivers, particularly related to atmospheric dynamics. I also have a strong interest in climate forecasts on subseasonal-to-decadal time scales, including forecast applications for sectors such as water resources.
 --- ---
 
 
 Employment
 ------------
 
-02/2019 - Present&nbsp;
+01/2023 - Present&nbsp;
+:    **Research Associate**  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;UNSW, Sydney, Australia
+
+02/2019 - 08/2022
 :    **Postdoctoral Fellow**  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;CSIRO, Hobart, Australia
 
