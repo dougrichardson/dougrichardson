@@ -2,7 +2,7 @@ Doug Richardson
 ============
 -- --
 **Research Associate**  
-ARC Centre of Excellence for Climate Extremes, UNSW (University of New South Wales), Sydney, Australia  
+ARC Centre of Excellence for Climate Extremes, UNSW, Sydney, Australia  
 [Google Scholar profile](https://scholar.google.com.au/citations?user=syAWxsEAAAAJ&hl=en)
 --- ---
 
