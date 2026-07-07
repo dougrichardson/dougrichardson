@@ -10,7 +10,7 @@ ARC Centre of Excellence for Weather of the 21st Century, UNSW, Sydney, Australi
 Employment
 ------------
 
-01/2026 - Present&nbsp
+01/2026 - Present&nbsp;
 :    **Senior Research Fellow**  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ARC Centre of Excellence for Weather of the 21st Century, UNSW, Sydney, Australia
 
