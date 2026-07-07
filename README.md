@@ -1,8 +1,8 @@
 Doug Richardson
 ============
 -- --
-**Research Associate**  
-ARC Centre of Excellence for Climate Extremes, UNSW, Sydney, Australia  
+**Senior Research Associate**  
+ARC Centre of Excellence for Weather of the 21st Century, UNSW, Sydney, Australia  
 [Google Scholar profile](https://scholar.google.com.au/citations?user=syAWxsEAAAAJ&hl=en)
 --- ---
 
@@ -10,7 +10,11 @@ ARC Centre of Excellence for Climate Extremes, UNSW, Sydney, Australia
 Employment
 ------------
 
-01/2023 - Present&nbsp;
+01/2026 - Present&nbsp;
+:    **Senior Research Fellow**  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ARC Centre of Excellence for Weather of the 21st Century, UNSW, Sydney, Australia
+
+01/2023 - 01/2026;
 :    **Research Associate**  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ARC Centre of Excellence for Climate Extremes, UNSW, Sydney, Australia
 
